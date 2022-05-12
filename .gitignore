@@ -3,6 +3,6 @@
 __pycache__
 env
 db.sqlite3
-static
-templates
+# static
+# templates
 .DS_Store
